@@ -1,0 +1,14 @@
+{
+    "stm32-for-vscode.openOCDPath": false,
+    "stm32-for-vscode.makePath": false,
+    "stm32-for-vscode.armToolchainPath": false,
+    "files.associations": {
+        "stm32f1xx_hal.h": "c",
+        "ad2can_can.h": "c",
+        "freertos.h": "c",
+        "adc.h": "c",
+        "app.h": "c",
+        "compare": "c",
+        "cstdint": "c"
+    }
+}
